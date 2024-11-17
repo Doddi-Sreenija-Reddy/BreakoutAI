@@ -47,6 +47,9 @@ To get started, ensure that you have the required dependencies installed and the
 - Python 3.8 or above
 - `pip` package manager
 
+## Loom Video Demo
+Check out a quick walkthrough of the project [here]([https://drive.google.com/uc?id=12ovrKKd50z9SIX4NwixhAB13LnQ_kYnA&export=download](https://drive.google.com/file/d/12ovrKKd50z9SIX4NwixhAB13LnQ_kYnA/view?usp=sharing)).
+
 ### Installation
 
 1. **Clone the Repository**:
