@@ -141,12 +141,4 @@ To utilize the full functionality of this application, you'll need API keys for 
 - **Real-time Processing Progress**: Monitor the status of your data processing in real time.
 - **Data Preview**: Review data before starting the analysis to ensure accuracy.
 
----
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
---- 
-
-Feel free to reach out if you have any questions or need further assistance. Happy analyzing! 🚀
