@@ -64,8 +64,6 @@ To get started, ensure that you have the required dependencies installed and the
    - Create a `.env` file in the project root directory and add your API keys
 
 ---
-## Loom Video Demo
-Check out a quick walkthrough of the project [here]().
 
 ### Using CSV Files
 
